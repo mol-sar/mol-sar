@@ -10,7 +10,6 @@ Experiences in using Figma(UI/UX Prototype), Visual Studio Code (C++, OpenGL, JA
 
 https://www.figma.com/proto/LQoZXhRaH7iUulW9eQFGgK/UiUx-project-protoype?node-id=2-2&p=f&t=sluLcAl5j2UQubgk-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=139%3A526&show-proto-sidebar=1
 
-<img width="429" height="855" alt="image" src="https://github.com/user-attachments/assets/c9b9a421-82e5-4400-afb7-5a941b0092e5" />
 
 
 # 002 (VS CODE/MARIADB)
