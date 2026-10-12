@@ -1,21 +1,17 @@
 # Melkha Dunian
 
-Specializes in Computer Science (Multimedia Computing).
-Located in University Malaysia Sarawak.
-Experiences in using Figma(UI/UX Prototype), Visual Studio Code (C++, OpenGL, JAVA, C#, Phyton, php), MariaDB (mysql).
+Specializes in Computer Science (Multimedia Computing). Located in Universiti Malaysia Sarawak (UNIMAS). Experienced with Figma (UI/UX Prototyping), Visual Studio Code (C++, OpenGL, Java, C#, Python, PHP), and MariaDB (MySQL).
 
-### 1. FIGMA
+---
 
-1.1. Link to ART Application Prototype:
+## 🎨 UI/UX Design (Figma)
 
-https://www.figma.com/proto/LQoZXhRaH7iUulW9eQFGgK/UiUx-project-protoype?node-id=2-2&p=f&t=sluLcAl5j2UQubgk-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=139%3A526&show-proto-sidebar=1
+* 1.1. [ART Mobile Application Prototype](https://www.figma.com/proto/LQoZXhRaH7iUulW9eQFGgK/UiUx-project-protoype?node-id=2-2&p=f&t=sluLcAl5j2UQIubgk-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=139%3A526&show-proto-sidebar=1)
 
+---
 
+## 💻 Systems, Graphics & Databases
 
-### 2. Visual Studio Code & MariaDB
-
-2.1. EcoMiner (C++ & OpenGL: Computer Graphics) https://github.com/mol-sar/ecominer2d.git
-
-2.2. Sarawak Heritage Online Auction Database System (Database) https://github.com/mol-sar/SHA.git
-
-2.3. Java-based desktop application focused on the Sustainable Development Goals, Good Health and Wellbeing (JAVA) https://github.com/mol-sar/good-health-wellbeing.git
+* 2.1. [EcoMiner (C++ & OpenGL: Computer Graphics)](https://github.com/mol-sar/ecominer2d)
+* 2.2. [Sarawak Heritage Online Auction System (Database & Web)](https://github.com/mol-sar/SHA)
+* 2.3. [SDG Desktop Application: Good Health & Well-Being (Java)](https://github.com/mol-sar/good-health-wellbeing)
