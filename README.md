@@ -4,7 +4,7 @@ Specializes in Computer Science (Multimedia Computing).
 Located in University Malaysia Sarawak.
 Experiences in using Figma(UI/UX Prototype), Visual Studio Code (C++, OpenGL, JAVA, C#, Phyton, php), MariaDB (mysql).
 
-# 001 (Figma)
+### 001 (Figma)
 
 1.1. Link to ART Application Prototype:
 
@@ -12,7 +12,7 @@ https://www.figma.com/proto/LQoZXhRaH7iUulW9eQFGgK/UiUx-project-protoype?node-id
 
 
 
-# 002 (VS CODE/MARIADB)
+### 002 (VS CODE/MARIADB)
 
 2.1. EcoMiner (C++ & OpenGL: Computer Graphics) https://github.com/mol-sar/ecominer2d.git
 
