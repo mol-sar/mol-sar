@@ -6,7 +6,7 @@ Specializes in Computer Science (Multimedia Computing). Located in Universiti Ma
 
 ##  UI/UX Design (Figma)
 
-* 1.1. [ART Mobile Application Prototype](https://www.figma.com/proto/LQoZXhRaH7iUulW9eQFGgK/UiUx-project-protoype?node-id=2-2&p=f&t=sluLcAl5j2UQIubgk-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=139%3A526&show-proto-sidebar=1)
+* 1.1. [ART Mobile Application Prototype: Group Project](https://www.figma.com/proto/LQoZXhRaH7iUulW9eQFGgK/UiUx-project-protoype?node-id=2-2&p=f&t=sluLcAl5j2UQIubgk-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=139%3A526&show-proto-sidebar=1)
 ---
 
 ##  Systems, Graphics & Databases
